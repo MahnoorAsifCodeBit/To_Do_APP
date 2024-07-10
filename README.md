@@ -33,7 +33,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 
 
-**Prerequisites** <br>
+✔**Prerequisites** <br>
 
 
 Make sure you have the following installed:
@@ -44,7 +44,7 @@ A modern web browser <br>
 Node.js (for running a local server, optional) <br>
 
 
-**Installation** <br>
+💻**Installation** <br>
 
 
 **1. Clone the repository:** <br>
