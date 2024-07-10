@@ -1,20 +1,34 @@
 📝 **To_Do_APP**
+
 Welcome to To_Do_APP! This is a simple and efficient to-do list application to help you manage your tasks effortlessly.
 
 
 🚀 **Features**
+
 <br>
+
 **Add Tasks**: Easily add new tasks to your to-do list. <br>
+
 **Delete Tasks:** Remove tasks that you have completed or no longer need.<br>
+
 **Edit Tasks:** Update tasks with new information.<br>
+
 **Firebase Integration:** Real-time database to store and sync your tasks.<br>
+
 🛠️ **Technologies Used** <br>
+
 HTML5 <br>
+
 CSS3 <br>
+
 JavaScript <br>
+
 Firebase <br>
+
 Bootstrap 4 <br>
+
 📋 **Getting Started** <br>
+
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 **Prerequisites** <br>
