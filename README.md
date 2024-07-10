@@ -2,6 +2,7 @@
 
 Welcome to To_Do_APP! This is a simple and efficient to-do list application to help you manage your tasks effortlessly. <br>
 
+
 🚀 **Features**
 <br>
 
@@ -31,7 +32,9 @@ Bootstrap 4 <br>
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 
+
 **Prerequisites** <br>
+
 
 Make sure you have the following installed:
 <br>
@@ -43,17 +46,21 @@ Node.js (for running a local server, optional) <br>
 
 **Installation** <br>
 
+
 **1. Clone the repository:** <br>
 
 git clone https://github.com/YourUsername/To_Do_APP.git <br>
 
+
 **2. Navigate to the project directory:**   <br>
+
 
 cd To_Do_APP  <br>
 
 **3.** Open **index.html** in your web browser to view the app.  <br>
 
 **Firebase Configuration** <br>
+
 
 Replace the Firebase configuration in app.js with your own Firebase project's configuration: <br>
 
@@ -71,23 +78,39 @@ const firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
+
 🌟 **How to Use** <br>
+
+
 **Add a Task:** Enter your task in the input field and click the "Add to do" button.<br>
+
 **Edit a Task:** Click the "Edit" button next to the task you want to update.<br>
+
 **Delete a Task:** Click the "Delete" button next to the task you want to remove.<br>
+
 **Delete All Tasks:** Click the "Delete" button at the top to clear all tasks.<br> 
 
+
 📄 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 👤 **Author** <br>
+
 Mahnoor Asif - MahnoorAsifCodeBit  <br>
 
+
 🙏 **Acknowledgements** <br>
+
+
 Thanks to Firebase for the backend services. <br>
+
 Icons by Font Awesome. <br>
 
-🤝 **Contributors**
+
+🤝 **Contributors** <br>
+
 Contributions, issues, and feature requests are welcome! Feel free to contribute.
 
 
